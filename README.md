@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![@jordirop's Holopin board](https://holopin.io/api/user/board?user=jordirop)](https://holopin.io/@jordirop)
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jordirop&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Jordi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordirop&theme=tokyonight&layout=compact&langs_count=8" /></a> |
 | ------------- | ------------- |
