@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
 ### Jordi Onrubia Palacios | Software & Data Engineer :computer: | Associated Professor :school:
-
-</br>
-[![@jordirop's Holopin board](https://holopin.io/api/user/board?user=jordirop)](https://holopin.io/@jordirop)
 </div>
+[![@jordirop's Holopin board](https://holopin.io/api/user/board?user=jordirop)](https://holopin.io/@jordirop)
+
